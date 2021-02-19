@@ -10,4 +10,4 @@ editor_options:
 
 This is an example project for workflowr. 
 
-This is my first markdown file: [Here!]("docs/first_try.html")
+This is my first markdown file: [Here!](first_try.html)

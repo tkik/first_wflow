@@ -1,7 +1,7 @@
-name: "example_wflow"
+name: example_wflow
 output_dir: ../docs
 navbar:
-  title: "example_wflow"
+  title: example_wflow
   left:
   - text: Home
     href: index.html
@@ -9,6 +9,10 @@ navbar:
     href: about.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/tkik/first_wflow
 output:
   workflowr::wflow_html:
     toc: yes

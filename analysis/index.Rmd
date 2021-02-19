@@ -8,4 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+This is an example project for workflowr. 
+
+This is my first markdown file: [Here!]("public/first_try.html")
